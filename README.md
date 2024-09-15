@@ -1,4 +1,4 @@
-## 👋 Hello, I'm a Front End Developer from Ukraine
+## 👋 Hello, I'm a Frontend Developer from Ukraine
 
 #### I have over 2 years of experience in web development. Developed approximately 10 e-commerce projects based on Sholify and successfully implemented several React and Next.js projects, which I also maintained.  
 
