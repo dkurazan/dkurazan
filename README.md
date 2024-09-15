@@ -23,6 +23,7 @@
  - HTML
  - Git, CI/CD
  - REST APIs
+ - Shopify (Liquid)
 
 #### I look forward to new contacts and work or cooperation offers. Let's connect and build the future of web development together!
 
