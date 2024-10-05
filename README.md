@@ -4,25 +4,28 @@
 
 ## Projects:
 
+#### [Chat application](https://chat-app-rkpv.onrender.com/) — A chat application implemented with MERN stack.
+
+#### [TravelAI](https://travel-ai-sage.vercel.app/) — A tour guide application powered by OpenAI and implemented with Next.js.
+
 #### [Mascolori](https://mascolori.eu/) — Online store for the famous Dutch shoe brand.
 
 #### [Zin in Thuiswerken](https://www.zininthuiswerken.nl/) — Website for the healthcare services company.
-
-#### [Set In Stone](https://setinstone-studio.com/) — Online store for the furniture brand.
 
 ## Tech Stack:
 
  - Next.js
  - Node.js
  - React
- - TypeScript
- - JavaScript
+ - TypeScript/JavaScript
  - Redux (Toolkit)
+ - Zustand
  - CSS/SCSS
  - Tailwind
  - HTML
- - Git, CI/CD
+ - MongoDB (Mongoose)
  - REST APIs
+ - Git, CI/CD
  - Shopify (Liquid)
 
 #### I look forward to new contacts and work or cooperation offers. Let's connect and build the future of web development together!
