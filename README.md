@@ -1,4 +1,4 @@
-## 👋 Hello, I'm a Frontend Developer from Ukraine
+## Frontend Developer
 
 #### I have over 2 years of experience in web development. Developed approximately 10 dynamic and responsive web applications using modern technologies like React, Next.js, and Node.js, as well as foundational technologies like HTML, CSS, and VanillaJS.  
 
